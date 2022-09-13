@@ -1,0 +1,3 @@
+app.ads.txt,20220913
+#admob
+google.com, pub-3637724862868404, DIRECT, f08c47fec0942fa0
