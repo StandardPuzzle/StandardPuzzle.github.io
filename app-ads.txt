@@ -1,4 +1,4 @@
-#app.ads.txt update 20250528
+#app.ads.txt update 20260904
 #admob
 google.com, pub-3637724862868404, DIRECT, f08c47fec0942fa0
 google.com, pub-4740795538325188, DIRECT, f08c47fec0942fa0
@@ -3175,3 +3175,68 @@ rubiconproject.com, 26064, RESELLER, 0bfd66d529a55807
 adyoulike.com, e48120b055ac0abcc41c0093bf3fe02e, RESELLER
 appnexus.com, 10549, RESELLER
 themediagrid.com, OTJDBI, RESELLER, 35d5010d7789b49d
+
+
+
+
+
+#odeeo 20260327
+odeeo.io,101589673,DIRECT,36cfd73091d5c3fc
+apester.com,23032,RESELLER
+richaudience.com,bUYZXR5jAX,DIRECT
+novicue.com,pub1012,RESELLER,aec3f6f87bcd4418
+adtonos.com,PUB1200124850,DIRECT
+152media.info,152M1176,RESELLER
+thisisdax.com,5456,RESELLER
+improvedigital.com,2730,RESELLER
+targetspot.com,453,RESELLER,feb28ed826dcf532
+rubiconproject.com,19938,RESELLER,0bfd66d529a55807
+display.io,2520,RESELLER
+pubmatic.com,167457,RESELLER
+triplelift.com,14702-EB,RESELLER,6c33edb13117fd86
+triplelift.com,14702,RESELLER,6c33edb13117fd86
+sharethrough.com,4525,RESELLER,d53b998a7bd4ecd2
+axis-marketplace.com,263,RESELLER
+soundstack.com,stack-449,RESELLER,7eced0fa02afc202
+improvedigital.com,2690,RESELLER
+rubiconproject.com,9755,RESELLER,0bfd66d529a55807
+programmaticx.ai,549201121,DIRECT
+carbonatix.com,165145618,RESELLER
+awg.la,23291710025,RESELLER
+trustedstack.com,TSG4DC1D7,RESELLER
+google.com,pub-9130183266015225,RESELLER,f08c47fec0942fa0
+tritondigital.com,248053,RESELLER,19b4454d0b87b58b
+zetaglobal.net,503,RESELLER
+appnexus.com,17399,RESELLER,f5ab79cb980f11d1
+pubmatic.com,166742,RESELLER
+adyoulike.com,5262f5cd4f4b14b39987747085329e39,RESELLER
+improvedigital.com,2174,RESELLER
+smartadserver.com,4925,RESELLER,060d053dcf45cbf3
+tritondigital.com,141193,RESELLER,19b4454d0b87b58b
+audire.fm,1359,RESELLER
+lijit.com,550531,RESELLER,fafdf38b16bf6b2b
+media.net,8CUAU7HF1,RESELLER
+tritondigital.com,94813,RESELLER,19b4454d0b87b58b
+targetspot.com,231,RESELLER,feb28ed826dcf532
+conversantmedia.com,100704,RESELLER,03113cd04947736d
+adswizz.com,odeeo,RESELLER
+adswizz.com,484,RESELLER
+thisisdax.com,5374,RESELLER
+video.unrulymedia.com,744858541,RESELLER
+adswizz.com,584,RESELLER
+adswizz.com,172,RESELLER
+pubmatic.com,165207,RESELLER,5d62403b186f2ace
+adswizz.com,80,RESELLER
+adswizz.com,318,RESELLER
+smartadserver.com,4525,RESELLER,060d053dcf45cbf3
+rubiconproject.com,20488,RESELLER,0bfd66d529a55807
+thisisdax.com,5288,RESELLER
+rubiconproject.com,16418,RESELLER,0bfd66d529a55807
+thisisdax.com,5285,RESELLER
+thisisdax.com,dax,RESELLER
+appnexus.com,1577,RESELLER,f5ab79cb980f11d1
+tritondigital.com,44733,RESELLER,19b4454d0b87b58b
+appnexus.com,7265,RESELLER,f5ab79cb980f11d1
+rubiconproject.com,9753,RESELLER,0bfd66d529a55807
+xandr.com,14168,RESELLER
+rubiconproject.com,24084,RESELLER,0bfd66d529a55807
